@@ -1,0 +1,23 @@
+{
+  "name": "darlingjs-resources",
+  "version": "0.7.0",
+  "main": [
+    "./resources.js"
+  ],
+  "description": "darlingjs resources module",
+  "keywords": [
+    "resources",
+    "loader",
+    "darlingjs"
+  ],
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:darlingjs/bower-resources-module.git"
+  }
+}
